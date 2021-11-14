@@ -1,0 +1,77 @@
+# Site
+repository: maojunxyz/maojunxyz.github.io
+favicon: images/favicon.ico
+
+version: 1
+
+# Personal info
+name: Mao Jun
+title: Full Stack Web Developer
+email: maojun.xyz@gmail.com
+
+# Social links
+twitter_username: maojunxyz
+github_username:  maojunxyz
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+#instagram_username: 
+#linkedin_username: 
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/avatar.png
+about_content: |
+  Hi, my name is Mao Jun, I'm a full stack web developer with over 8 years experience currently specialising in Java development.
+  I am currently working for hendaotech as a Backend software engineer on their comercial banking platform, China.
+
+  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
+  with something new. The things that I currently have the most experience working with are:
+  <mark>ES6 Javascript</mark>,
+  <mark>React &amp; Redux</mark>,
+  <mark>Node.js</mark>,
+  <mark>Java</mark>,
+  <mark>PHP</mark>,
+  <mark>MySQL</mark>,
+  <mark>Symfony</mark>,
+  <mark>SASS</mark>,
+  <mark>git</mark> and
+  <mark>AWS</mark> services.
+
+
+# Experience Section
+# experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: When I'm Not Programming
+more_content: |
+  When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
+  mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
+  rock climbing and playing some rugby. Since my time at university I have become a very keen Kitesurfer and freestyle
+  Landboarder. In 2014 I competed and won the amateur landboard British powerkite tour.
+
+  Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
+  Bristol's indoor climbing centres or down the Rec supporting Bath Rugby.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
+
+
+plugins:
+  - jekyll-seo-tag
